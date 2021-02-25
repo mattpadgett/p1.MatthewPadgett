@@ -18,3 +18,24 @@
 ## Example Device Images
 <img src="https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/1.jpg" alt="microwave image" width="500"></img>
 <img src="https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/3.jpg" alt="microwave image" width="500"></img>
+
+## Part B Questions
+- Common Uses  
+  - Timed cooking
+  - Popcorn button usage
+  - Quick meals such as ramen or small pasta dishes
+- Rarer Uses
+  - Defrosting - It is preferred to place whatever is needing to be defrosted in the sink or in a bowl of warm water
+  - Food cooking options - Not used very often as most things tell you how long to cook them for
+- How does the microwave support the user figure out how to make it work?
+  - This particular model does not do a very good job at all of describing the instructions needed to preform an action within the interface. Especially in the cook and defrost interfaces
+- How does the microwave provide feedback to the user?
+  - Via the seven segment display. However, the issue with this method of feedback is that the display commonly uses abbreviations that may be unclear to the user
+  - The device also outputs an identical beep for every button pressed to tell the user that a button was pressed
+- What are some common mistakes you can make with this current design?
+  - Not properly cooking your food by using the cook time button or by using the cook button
+  - Some microwaves use the number pad as a method of starting the microwave for the corresponding number of minutes to cook an item while others use it as a way to enter the time to cook and then press the start button.  
+- Suggest the improvements to make on the control interface. Also sketch. To impove the current interface I could do the following:
+  -  Convert the seven segment display to use a much larger digital display to have more dynamic screen content and positioning.
+  -  The cook time button could be labeled more clearly to show what it does.
+  -  The button panel could also be fitted with tactile braile in order to assist vision impaired people in microwave use. The device could also use an AI assisted voice in order to provide feedback to users that is enabled by default for the visually impaired.
