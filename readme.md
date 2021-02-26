@@ -39,3 +39,5 @@
   -  Convert the seven segment display to use a much larger digital display to have more dynamic screen content and positioning.
   -  The cook time button could be labeled more clearly to show what it does.
   -  The button panel could also be fitted with tactile braile in order to assist vision impaired people in microwave use. The device could also use an AI assisted voice in order to provide feedback to users that is enabled by default for the visually impaired.
+  -  Sketch:
+  <img src="https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/Microwave Interface.png" alt="microwave idea" height="500"></img> 
