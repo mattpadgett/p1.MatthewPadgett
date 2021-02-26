@@ -13,11 +13,11 @@
   The cook power button is one that is extremely important for a microwave as different items require different power levels. The easy location of this button is something that can be praised. However, the cook time button is very poorly designed in my opinion because it is extremely vague. In normal use the numeric entry pad is used for determining how long one might want to cook something in the microwave so it is not very clear at all what the purpose of this button is.
 
 ## GIF of Operation
-![gif displaying the operation of the microwave device.](https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/operation.gif)
+![gif displaying the operation of the microwave device.](operation.gif)
 
 ## Example Device Images
-<img src="https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/1.jpg" alt="microwave image" width="500"></img>
-<img src="https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/3.jpg" alt="microwave image" width="500"></img>
+<img src="1.jpg" alt="microwave image" width="500"/>
+<img src="3.jpg" alt="microwave image" width="500"/>
 
 ## Part B Questions
 - Common Uses  
@@ -40,4 +40,4 @@
   -  The cook time button could be labeled more clearly to show what it does.
   -  The button panel could also be fitted with tactile braile in order to assist vision impaired people in microwave use. The device could also use an AI assisted voice in order to provide feedback to users that is enabled by default for the visually impaired.
   -  Sketch:
-  <img src="https://github.com/mattpadgett/p1.MatthewPadgett/blob/report/Microwave Interface.png" alt="microwave idea" height="500"></img> 
+  <img src="Microwave Interface.png" alt="microwave idea" height="500"/> 
